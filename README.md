@@ -1,2 +1,2 @@
-# NikolayVeligura.github.io
+# Николай Велигура
 Мой первый сайт
